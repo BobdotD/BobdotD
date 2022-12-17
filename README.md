@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JitulBorah
+- 👋 Hi, I’m @JitulBorah.
 - 👀 I’m interested in learning front end.
 - 🌱 I’m currently stuck in React .
 - 💞️ I’m looking to collaborate on open source web dev projects 
